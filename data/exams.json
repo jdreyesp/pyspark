@@ -1,0 +1,14 @@
+[
+  {
+    "student_name": "Alice",
+    "score": 85.5,
+    "subject": "Mathematics",
+    "date": "2023-01-15"
+  },
+  {
+    "student_name": "Bob",
+    "score": 72.0,
+    "subject": "Mathematics",
+    "date": "2023-01-15"
+  }
+]

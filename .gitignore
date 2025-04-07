@@ -1,0 +1,16 @@
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode
+
+#python
+venv
+.egg-info
+__pycache__
+
+# examples
+data/exam_report
+
+# pytest
+.pytest*
